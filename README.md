@@ -6,4 +6,5 @@
 4. [3d音乐球](https://tinygameteam.itch.io/3d-music-ball)
 5. [2048射击](https://tinygameteam.itch.io/2048shoot)
 5. [BB弹-无限模式](https://tinygameteam.itch.io/bb-bullet)
+5. [泡泡龙-饭制](https://tinygameteam.itch.io/pop-pop)
 
