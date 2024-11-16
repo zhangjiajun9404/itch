@@ -5,6 +5,6 @@
 3. [猫了个猫-3D](https://tinygameteam.itch.io/3d)
 4. [3d音乐球](https://tinygameteam.itch.io/3d-music-ball)
 5. [2048射击](https://tinygameteam.itch.io/2048shoot)
-5. [BB弹-无限模式](https://tinygameteam.itch.io/bb-bullet)
-5. [泡泡龙-饭制](https://tinygameteam.itch.io/pop-pop)
-
+6. [BB弹-无限模式](https://tinygameteam.itch.io/bb-bullet)
+7. [泡泡龙-饭制](https://tinygameteam.itch.io/pop-pop)
+8. [2048经典版](https://tinygameteam.itch.io/2048-classic)
