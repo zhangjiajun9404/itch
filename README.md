@@ -9,3 +9,5 @@
 7. [泡泡龙-饭制](https://tinygameteam.itch.io/pop-pop)
 8. [2048经典版](https://tinygameteam.itch.io/2048-classic)
 9. [一个都不能死](https://tinygameteam.itch.io/no-one-can-die)
+10. [捕鱼-练手版](https://tinygameteam.itch.io/catch-fish-js)
+
