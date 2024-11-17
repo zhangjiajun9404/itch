@@ -10,4 +10,5 @@
 8. [2048经典版](https://tinygameteam.itch.io/2048-classic)
 9. [一个都不能死](https://tinygameteam.itch.io/no-one-can-die)
 10. [捕鱼-练手版](https://tinygameteam.itch.io/catch-fish-js)
+11. [魔方-threejs](https://tinygameteam.itch.io/the-cube)
 
