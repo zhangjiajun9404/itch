@@ -18,4 +18,6 @@
 16. [双人五子棋-选格子版](https://tinygameteam.itch.io/couple-five-chess)
 17. [斗地主-简化版](https://tinygameteam.itch.io/landlord2)
 18. [中秋吃月饼大赛](https://tinygameteam.itch.io/eat-yue-bing)
+18. [斗兽棋单人对战版👍👍👍](https://tinygameteam.itch.io/dou-shou-2)
+
 
