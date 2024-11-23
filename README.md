@@ -12,7 +12,7 @@
 10. [捕鱼-练手版](https://tinygameteam.itch.io/catch-fish-js)
 11. [魔方-threejs](https://tinygameteam.itch.io/the-cube)
 12. [青蛙吃苍蝇-考验你的手速](https://tinygameteam.itch.io/frog-and-bug)
-13. [蜘蛛纸牌-pc版](https://tinygameteam.itch.io/spider-cards-pc)
+13. [蜘蛛纸牌-pc版👍👍](https://tinygameteam.itch.io/spider-cards-pc)
 14. [图片消除-简化版](https://tinygameteam.itch.io/couple-cards)
 15. [疯狂鲨鱼](https://tinygameteam.itch.io/crazy-shake)
 16. [双人五子棋-选格子版](https://tinygameteam.itch.io/couple-five-chess)
