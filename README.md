@@ -19,5 +19,7 @@
 17. [斗地主-简化版](https://tinygameteam.itch.io/landlord2)
 18. [中秋吃月饼大赛](https://tinygameteam.itch.io/eat-yue-bing)
 18. [斗兽棋单人对战版👍👍👍](https://tinygameteam.itch.io/dou-shou-2)
+18. [激流勇进小游戏Demo](https://tinygameteam.itch.io/fore-go)
+
 
 
