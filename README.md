@@ -17,5 +17,5 @@
 15. [疯狂鲨鱼](https://tinygameteam.itch.io/crazy-shake)
 16. [双人五子棋-选格子版](https://tinygameteam.itch.io/couple-five-chess)
 17. [斗地主-简化版](https://tinygameteam.itch.io/landlord2)
-17. [中秋吃月饼大赛](https://tinygameteam.itch.io/eat-yue-bing)
+18. [中秋吃月饼大赛](https://tinygameteam.itch.io/eat-yue-bing)
 
