@@ -21,6 +21,7 @@
 18. [斗兽棋单人对战版👍👍👍](https://tinygameteam.itch.io/dou-shou-2)
 18. [激流勇进小游戏Demo](https://tinygameteam.itch.io/fore-go)
 18. [天天消消乐-练手版](https://tinygameteam.itch.io/tian-tian-xiao)
+18. [俄罗斯方块简单版](https://tinygameteam.itch.io/tiles)
 
 
 
