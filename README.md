@@ -23,3 +23,6 @@
 - [天天消消乐-练手版](https://tinygameteam.itch.io/tian-tian-xiao)
 - [俄罗斯方块简单版](https://tinygameteam.itch.io/tiles)
 - [uno-人机对战👍👍👍](https://tinygameteam.itch.io/uno-ai)
+- [翻牌考记忆力](https://tinygameteam.itch.io/fan-pai2)
+
+
