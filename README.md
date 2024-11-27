@@ -25,5 +25,6 @@
 - [uno-人机对战👍👍👍](https://tinygameteam.itch.io/uno-ai)
 - [翻牌考记忆力](https://tinygameteam.itch.io/fan-pai2)
 - [天降红包抢大额](https://tinygameteam.itch.io/fall-red-pack)
+- [4096自定引擎版👍](https://tinygameteam.itch.io/4096-myengine)
 
 
