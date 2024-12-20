@@ -29,4 +29,4 @@
 - [跑酷游戏练习](https://tinygameteam.itch.io/run-man)
 - [球与球-io小游戏](https://tinygameteam.itch.io/click-ball)
 - [抓小猪👍👍👍](https://tinygameteam.itch.io/catch-pig-pig)
-
+- [搞笑游戏-人生重开模拟器👍👍](https://tinygameteam.itch.io/life-game)
