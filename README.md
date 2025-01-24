@@ -4,6 +4,7 @@
 - [uno-人机对战👍👍👍](https://tinygameteam.itch.io/uno-ai)
 - [抓小猪👍👍👍](https://tinygameteam.itch.io/catch-pig-pig)
 - [搞笑游戏-人生重开模拟器👍👍](https://tinygameteam.itch.io/life-game)
+- [小货车货拉拉👍👍](https://tinygameteam.itch.io/huo-che)
 - [养猪小能手👍👍](https://tinygameteam.itch.io/pig)
 - [蜘蛛纸牌-pc版👍👍](https://tinygameteam.itch.io/spider-cards-pc)
 - [人间大炮👍](https://tinygameteam.itch.io/ren-jian-da-pao)
